@@ -1,4 +1,4 @@
-// let onClick=()=>{
+// let onClick=()=>{   
 function trafficLights() {
     let redLight = document.querySelector(".red-light")
     let yellowLight = document.querySelector(".yellow-light")
