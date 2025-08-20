@@ -1,0 +1,33 @@
+body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: azure;
+}
+
+
+.circle{
+    width: 100px;
+    height: 100px; 
+    background-color: #8d8a8a;
+    border-radius: 50%;
+    margin: 10px;
+}
+
+/*
+.circle.active{
+    opacity: 1;
+}
+
+.buttons {
+  margin-top: 20px;
+}
+
+button {
+  border: 3px solid black;
+  border-radius: 8px;
+  cursor: pointer;
+} 
+*/
